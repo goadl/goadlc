@@ -1,0 +1,2 @@
+# goadlc
+Go ADL Compiler
